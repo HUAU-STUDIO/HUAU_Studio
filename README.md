@@ -1,4 +1,4 @@
-- 👋 Hi, I’m "HUAU Studio" Founder [Republic of Korea]
+- 👋 Hi, I’m "HUAU_Studio" Founder [Republic of Korea]
 - 👀 I’m interested in Urban & Architecture for Us.
 - 🌱 I’m currently learning AI Machine Learning by Python.
 - 💞️ I’m Studying at SOCAR_AI_BOOT_CAMP
